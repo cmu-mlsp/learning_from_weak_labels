@@ -2,4 +2,5 @@
 ## Presenter - Bhiksha Raj, Anurag Kumar and Ankit Shah
 ## Acknowledgement: Sourish Chaudhari
 
-### Slides for the Tutorial are present here: https://docs.google.com/presentation/d/1wmHsgNqc3jQo_y-t5VmRfXyQp0adW3RB/edit?usp=sharing&ouid=117462616376449760831&rtpof=true&sd=true
+### Slides for the Tutorial are present here: 
+https://drive.google.com/file/d/13PWUOW8hGHE4Zt0ddMgxlg3tTuMTKhVd/view?usp=sharing
